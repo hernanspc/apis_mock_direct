@@ -1,0 +1,146 @@
+[
+  {
+    "name": "Factura 09-2021",
+    "account_name": "Cuentas De Ahorro",
+    "account_number": "191-24526682-0-24",
+    "saldo": 0.00,
+    "creation_date": "2021-09-11T03:00:00Z",
+    "start_date": "2021-08-11T03:00:00Z",
+    "end_date": "2021-09-10T03:00:00Z",
+    "total_amount": {
+      "value": 10623.53,
+      "currency": "ARS",
+      "tax_included": true
+    },
+    "identifiers": [
+      "534674575"
+    ],
+    "id": "FB-1082-00001279"
+  },
+  {
+    "name": "Factura 08-2021",
+    "account_name": "Cuentas De Ahorro",
+    "account_number": "191-39860032-0-57",
+    "saldo": 0.02,
+    "creation_date": "2021-08-11T03:00:00Z",
+    "start_date": "2021-07-11T03:00:00Z",
+    "end_date": "2021-08-10T03:00:00Z",
+    "total_amount": {
+      "value": 6975.33,
+      "currency": "ARS",
+      "tax_included": true
+    },
+    "identifiers": [
+      "534674575"
+    ],
+    "id": "FB-1082-00001047"
+  },
+  {
+    "name": "Factura 07-2021",
+    "account_name": "Cuentas De Ahorro",
+    "account_number": "191-02471042-1-01",
+    "saldo": 165.90,
+    "creation_date": "2021-07-11T03:00:00Z",
+    "start_date": "2021-06-11T03:00:00Z",
+    "end_date": "2021-07-10T03:00:00Z",
+    "total_amount": {
+      "value": 3538.83,
+      "currency": "ARS",
+      "tax_included": true
+    },
+    "identifiers": [
+      "534674575"
+    ],
+    "id": "FB-1082-00000820"
+  },
+  {
+    "name": "Factura 06-2021",
+    "account_name": "Cuenta Corriente",
+    "account_number": "191-2712279-0-56",
+    "saldo": 401.02,
+    "creation_date": "2021-06-11T03:00:00Z",
+    "start_date": "2021-06-09T03:00:00Z",
+    "end_date": "2021-06-10T03:00:00Z",
+    "total_amount": {
+      "value": 214.09,
+      "currency": "ARS",
+      "tax_included": true
+    },
+    "identifiers": [
+      "534674575"
+    ],
+    "id": "FB-1082-00000566"
+  },
+  {
+    "name": "Factura 05-2021",
+    "account_name": "Cts",
+    "account_number": "191-49690884-0-18",
+    "saldo": 20.10,
+    "creation_date": "2021-05-11T03:00:00Z",
+    "start_date": "2021-04-09T03:00:00Z",
+    "end_date": "2021-05-10T03:00:00Z",
+    "total_amount": {
+      "value": 13.09,
+      "currency": "ARS",
+      "tax_included": true
+    },
+    "identifiers": [
+      "534674575"
+    ],
+    "id": "FB-1082-00000500"
+  },
+  {
+    "name": "Factura 04-2021",
+    "account_name": "Cuentas De Ahorro",
+    "account_number": "191-24526682-0-24",
+    "saldo": 7.50,
+    "creation_date": "2021-04-11T03:00:00Z",
+    "start_date": "2021-03-09T03:00:00Z",
+    "end_date": "2021-04-10T03:00:00Z",
+    "total_amount": {
+      "value": 4413.09,
+      "currency": "ARS",
+      "tax_included": true
+    },
+    "identifiers": [
+      "534674575"
+    ],
+    "id": "FB-1082-00000410"
+  },
+  {
+    "name": "Factura 04-2021",
+    "account_name": "Cuentas De Ahorro",
+    "account_number": "191-04797277-0-32",
+    "saldo": 210.00,
+    "creation_date": "2021-04-11T03:00:00Z",
+    "start_date": "2021-03-09T03:00:00Z",
+    "end_date": "2021-04-10T03:00:00Z",
+    "total_amount": {
+      "value": 4413.09,
+      "currency": "ARS",
+      "tax_included": true
+    },
+    "identifiers": [
+      "534674575"
+    ],
+    "id": "FB-1082-00000410"
+  },
+  {
+    "name": "Factura 03-2021",
+    "account_name": "Cuentas De Ahorro",
+    "account_number": "191-04797277-0-32",
+    "saldo": 0.04,
+    "creation_date": "2021-03-11T03:00:00Z",
+    "start_date": "2021-02-09T03:00:00Z",
+    "end_date": "2021-03-10T03:00:00Z",
+    "total_amount": {
+      "value": 100.29,
+      "currency": "ARS",
+      "tax_included": true
+    },
+    "identifiers": [
+      "534674575"
+    ],
+    "id": "FB-1082-00000367"
+  }
+]

@@ -1,0 +1,34 @@
+[
+    {
+      "id": "FA-2508-00000430",
+      "name": "Factura 01-2021",
+      "creation_date": "2021-01-16T03:00:00Z",
+      "start_date": "2020-12-16T03:00:00Z",
+      "end_date": "2021-01-15T03:00:00Z",
+      "download_url": "https://telefonica4p.example.com/download?document=bill&tokenADFAEGHAEGAEGAAGAEGHA",
+      "total_amount": {
+        "value": 62.17,
+        "currency": "EUR",
+        "tax_included": true
+      },
+      "identifiers": [
+        532272191
+      ]
+    },
+    {
+      "id": "FA-2508-00000397",
+      "name": "Factura 12-2020",
+      "creation_date": "2020-12-16T03:00:00Z",
+      "start_date": "2020-11-16T03:00:00Z",
+      "end_date": "2020-12-15T03:00:00Z",
+      "download_url": "https://telefonica4p.example.com/download?document=bill&tokenADFAEGHAEGAEGAAGAEGHA",
+      "total_amount": {
+        "value": 13269.78,
+        "currency": "ARS",
+        "tax_included": true
+      },
+      "identifiers": [
+        532272191
+      ]
+    }
+]

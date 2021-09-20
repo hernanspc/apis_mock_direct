@@ -1,0 +1,51 @@
+{
+    "blocked_no_balance": false,
+    "max_purchases_allowed": 140,
+    "purchases_report": {
+      "area_id": "home",
+      "area_description": "Home area",
+      "auto_purchases_made": 1,
+      "auto_purchases_remaining": 0,
+      "promo_purchases_made": 1,
+      "promo_purchases_remaining": 0,
+      "turbo_purchases_made": 2,
+      "turbo_purchases_remaining": 0,
+      "monthly_auto_purchases_made": 1,
+      "monthly_auto_purchases_remaining": 0,
+      "monthly_turbo_purchases_made": 1,
+      "monthly_turbo_purchases_remaining": 0,
+      "monthly_purchases_over_limit": 0
+    },
+    "purchases": [
+      {
+        "type": "automatic",
+        "plan_id": "PlanPruebas2",
+        "over_limit": false,
+        "purchase_number": 1,
+        "external_system_id": "ocs",
+        "gas_external_system": {
+          "content_id": "1",
+          "tariff_id": "23423",
+          "mode": "mode"
+        },
+        "ocs_external_system": {
+          "rating_group": "600",
+          "service_id": "3",
+          "amount": 1108472
+        },
+        "promotion": {
+          "promotion_id": "prmo1peso1diaHome",
+          "end_date": "2021-07-20",
+          "channel": "--"
+        },
+        "date": "2021-07-20",
+        "end_date": "2021-07-20",
+        "psa_result_code": "4",
+        "external_system_result_code": "DIAMETER-SUCCESS",
+        "initial_amount": 52428800,
+        "remaining_amount": 51258082,
+        "service_id": "PrepagoDiarioHighSpeed",
+        "service_description": "Velocidad normal"
+      }
+    ]
+  }

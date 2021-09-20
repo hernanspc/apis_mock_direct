@@ -1,0 +1,53 @@
+{
+    "id": "TA5EN1442511",
+    "end_date": "2017-01-17T00:00:00Z",
+    "due_date": "2017-02-10T00:00:00Z",
+    "creation_date": "2017-02-01T00:00:00Z",
+    "name": "Airtime bill",
+    "start_date": "2016-12-18T00:00:00Z",
+    "payment_status": "paid",
+    "identifiers": [
+      1142999726
+    ],
+    "customer": {
+      "name": "Andrés Iniesta",
+      "id_document": {
+        "country": "ES",
+        "type": "NIF",
+        "value": "6667337566Y"
+      }
+    },
+    "total_amount": {
+      "value": 1624.5,
+      "currency": "ARS",
+      "tax_included": true
+    },
+    "billed_items_summary": [
+      {
+        "id": 2685331680,
+        "amount": {
+          "value": 3249.01,
+          "currency": "ARS",
+          "tax_included": true
+        },
+        "description": "Plan Full DLX (15GB)",
+        "start_date": "2016-12-18T00:00:00Z",
+        "end_date": "2017-01-17T00:00:00Z",
+        "category": "tariff",
+        "identifier": 1142999726
+      },
+      {
+        "id": 2685331680,
+        "amount": {
+          "value": -1624.51,
+          "currency": "ARS",
+          "tax_included": true
+        },
+        "description": "Plan Full DLX (15GB)",
+        "start_date": "2016-12-18T00:00:00Z",
+        "end_date": "2017-01-17T00:00:00Z",
+        "category": "tariff",
+        "identifier": 1142999726
+      }
+    ]
+}

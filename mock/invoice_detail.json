@@ -1,0 +1,67 @@
+{
+    "id": "FB-2512-00000933",
+    "due_date": "2021-09-11T03:00:00Z",
+    "download_url": "https://apis4p.telefonica.com.ar/telefonica/sandbox/downloads/v1/facturas?id=i73lRCQwZqx1S89D3GB2Lr6bG5Jh3%2FoNQZLrbQ3NsS615iBqZWQ4HOkZYZT3KMD7hQAk0m%2BcJihBY3o%2Br1izsKB6rH3POVl5",
+    "end_date": "2021-08-27T03:00:00Z",
+    "creation_date": "2021-08-28T03:00:00Z",
+    "name": "Factura 08-2021",
+    "start_date": "2021-07-28T03:00:00Z",
+    "payment_status": "unknown",
+    "identifiers": [
+      null,
+      "1151665380"
+    ],
+    "customer": {
+      "name": "CSALDO tres",
+      "id_document": {
+        "country": "AR",
+        "type": "DNI",
+        "value": null
+      }
+    },
+    "total_amount": {
+      "value": 1316,
+      "currency": "ARS",
+      "tax_included": true
+    },
+    "billed_items_summary": [
+      {
+        "id": "2685489084",
+        "amount": {
+          "value": 1,
+          "currency": "ARS",
+          "tax_included": true
+        },
+        "description": "Cargame Saldo / Ampliación de Crédito",
+        "start_date": "2021-07-28T03:00:00Z",
+        "end_date": "2021-08-27T03:00:00Z",
+        "category": "purchase"
+      },
+      {
+        "id": "2685527020",
+        "amount": {
+          "value": 2630,
+          "currency": "ARS",
+          "tax_included": true
+        },
+        "description": "Plan Full 6GB DLX",
+        "start_date": "2021-07-28T03:00:00Z",
+        "end_date": "2021-08-27T03:00:00Z",
+        "identifier": "1151665380",
+        "category": "tariff"
+      },
+      {
+        "id": "2685527020",
+        "amount": {
+          "value": -1315,
+          "currency": "ARS",
+          "tax_included": true
+        },
+        "description": "Plan Full 6GB DLX",
+        "start_date": "2021-07-28T03:00:00Z",
+        "end_date": "2021-08-27T03:00:00Z",
+        "identifier": "1151665380",
+        "category": "tariff"
+      }
+    ]
+  }
